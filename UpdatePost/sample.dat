@@ -1,0 +1,5 @@
+http://localhost:7071/api/blog-post/ThoughtCircle/1672064135668
+{
+  "title": "Third Post Updated",
+  "content": "This is a sample post updated."
+}

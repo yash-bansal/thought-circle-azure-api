@@ -1,0 +1,2 @@
+# thought-circle-azure-api
+ 

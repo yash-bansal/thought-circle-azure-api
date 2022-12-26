@@ -1,0 +1,6 @@
+http://localhost:7071/api/blog-post
+{
+  "blog": "ThoughtCircle",
+  "title": "Third Post",
+  "content": "This is a sample post."
+}
